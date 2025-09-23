@@ -26,3 +26,7 @@ expression.
 Keywords: Medical research, gender bias, gene expression, differentially expressed gene
 (DEG), statistical bias, microarray, t-test, linear model, limma, design matrix, contrast
 matrix, means model, mean-reference model, factor, level, empirical Bayes, GEO datasets
+
+**Datasets:** Below is the list with all of the GEO Datasets used and links to them. Those were not uploaded onto this repositorie due to the size limitations of GitHub.
+
+https://docs.google.com/spreadsheets/d/1zdT-pYzlnM5JREDoc6iLs5po7ZMVYkvogP1svIat6ws/edit?usp=sharing
