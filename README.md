@@ -1,13 +1,16 @@
 # Thesis_Gender_Bias
 
-This Repo contains all of the files, images, datasets and code used in my undergraduate thesis: _Gender Bias in Clinical Studies: A Statistical Approach_.
+This Repo contains all of the files, images, datasets and code used in my undergraduate thesis: _**Gender Bias in Clinical Studies: A Statistical Approach**_.
 
-Institution: University of Crete, Deparment of Mathematics and Applied Mathematics,
-Supervisor: Supervisor: Pavlos Pavlidis, Associate Professor, Department of Biology UoC and Affiliated Researcher, ICS-FORTH
-Heraklion 2025
+**Institution:** University of Crete, Deparment of Mathematics and Applied Mathematics
+
+**Supervisor:** Supervisor: Pavlos Pavlidis, Associate Professor, Department of Biology UoC and Affiliated Researcher, ICS-FORTH
+
+_Heraklion 2025_
 
 
-Abstract: 
+**Abstract:**
+
 ​
 This thesis aims to investigate the impact of gender bias in clinical research, with a
 focus on differences in gene expression. The historical exclusion of females in clinical
