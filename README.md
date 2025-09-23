@@ -17,3 +17,5 @@ presented and visualized, highlighting the extent of gender-specific variations 
 expression.
 
 Keywords: Medical research, gender bias, gene expression, differentially expressed gene
+(DEG), statistical bias, microarray, t-test, linear model, limma, design matrix, contrast
+matrix, means model, mean-reference model, factor, level, empirical Bayes, GEO datasets
